@@ -61,22 +61,4 @@ const listOrgNames = async(req, res)=>{
     }
 }
 
-const viewFlag = async(req, res)=>{
-    try {
-            const flag = await Flag.findOne({
-                _id : req.params.id,
-                organizationId : req.params.orgId
-            })
-            if(!flag){
-                return res.status(404).json({message : "Flag not found"})
-            }
-            return res.status(200).json(flag)
-
-    } catch (error) {
-        return res.status(500).json({message : error.message})
-    }
-}
-
-
-
-module.exports = { createFlag, listFlag, updateFlag, deleteFlag, listOrgNames, viewFlag }
+module.exports = { createFlag, listFlag, updateFlag, deleteFlag, listOrgNames }
