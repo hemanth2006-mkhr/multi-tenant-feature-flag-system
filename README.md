@@ -190,4 +190,4 @@ npm run dev
 # Author
 
 **Hemanth Kumar M**
-BCA Student | MERN Stack Developer
+| BCA Student | MERN Stack Developer
