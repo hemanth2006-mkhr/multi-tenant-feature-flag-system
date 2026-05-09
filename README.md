@@ -177,14 +177,14 @@ npm run dev
 
 # Screenshot
 
-![alt text](superadmin.png)
 ## Super Admin Portal
+![alt text](superadmin.png)
 
-![alt text](org-admin-1.png)
 ## Organization Admin Portal
+![alt text](org-admin.png)
 
-![alt text](user.png)
 ## End User Portal
+![alt text](user.png)
 
 ---
 # Author
