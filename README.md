@@ -21,8 +21,6 @@ It supports three different portals:
 * API Endpoints
 * Authentication
 * Setup Instructions
-* Environment Variables
-* Engineering Decisions
 * Screenshots
 
 ---
@@ -177,6 +175,18 @@ npm run dev
 
 ---
 
+# Screenshot
+
+![alt text](superadmin.png)
+## Super Admin Portal
+
+![alt text](org-admin-1.png)
+## Organization Admin Portal
+
+![alt text](user.png)
+## End User Portal
+
+---
 # Author
 
 **Hemanth Kumar M**
