@@ -77,6 +77,8 @@ This is commonly used in SaaS products to release features gradually.
 * React Router DOM
 * Axios
 * Tailwind CSS
+* Lucide-react
+* React-toastify
 
 ---
 
